@@ -1,0 +1,8 @@
+#custom {
+    background-image: url('test.gif');
+    background-size: cover;
+}
+
+#check {
+    text-align: center;
+}
